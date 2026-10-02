@@ -1,42 +1,53 @@
 # Farhan Shaikh
 
-**Technical Operations · AI-assisted technical building · CRM & automation · Implementation**
+**Technical Operations · AI-Assisted Building · CRM & Automation · Implementation**
 
-I turn operational requirements into working systems: mapping the process, designing how data moves, directing implementation with AI tools, and testing the result through deployment.
+## I turn ambiguous business problems into working systems.
 
-My focus is the connection between the business problem and the system people actually use—requirements, workflows, integrations, QA, and delivery.
+I connect business requirements with the systems people use: define the workflow, design how data moves, build with AI, integrate the pieces, test behavior, and carry delivery through deployment.
 
-## Selected work
-
-### [Parenthood](https://github.com/farshaikh17/Parenthood)
-A personal product experiment: a real-time baby-care simulation with a deterministic rules engine and bounded AI-generated reflections.
-
-- **My role:** product concept, requirements, system design, AI-assisted implementation direction, and behavior validation.
-- **System:** React and TypeScript interface, local persistence, and Cloudflare Worker architecture for household synchronization and AI endpoints.
-- **Decision:** simulation rules own state; AI provides narrative rather than inventing care outcomes.
-- **Status:** active experiment. Deployment and end-to-end validation of individual integrations are separate from code completeness.
-- [Project overview under review](https://github.com/farshaikh17/Parenthood/pull/1)
+## Selected Work
 
 ### [Miami Goes Local / Goes Local](https://github.com/Mianrodev/Goes-Local)
-A company-owned local business directory system connecting public discovery, listing management, and GoHighLevel CRM workflows.
+**Company system · Mianro Systems**
 
-- **My role:** requirements, architecture and data-system flow, implementation direction, testing, QA, and deployment.
-- **How it was built:** AI wrote code under direction; team members supported GHL workflows and QA.
-- **System:** shared Cloudflare Worker application, separate city databases, scheduled CRM synchronization, and operational administration.
-- **Delivery focus:** keeping the public site, CRM data, and team workflows aligned while supporting multiple cities.
+- **Problem:** connect local business discovery and listing management with CRM operations.
+- **My role:** requirements, architecture, system/data flow, implementation direction, AI-assisted development, testing, QA, deployment, and coordination with the team.
+- **System:** Cloudflare Workers and D1, separate city databases, scheduled synchronization, and GoHighLevel CRM integration.
+- **Delivery:** supports a directory platform across cities. My focus was keeping the public product, CRM data, and team workflows aligned.
+- **Team and AI:** AI generated substantial code under my direction; team members contributed GHL workflows and extended QA.
+- **Evidence:** [company repository](https://github.com/Mianrodev/Goes-Local).
 
-**Ownership:** Goes Local belongs to Mianro Systems. The company repository is linked as project context; its source and datasets are not part of my personal portfolio assets.
+Company ownership remains with Mianro Systems. This is a description of my contribution; company source and datasets are not my personal portfolio assets.
 
-## How I work
+### [Parenthood](https://github.com/farshaikh17/Parenthood)
+**Personal product experiment**
 
-1. Translate a business need into requirements, workflows, and acceptance criteria.
-2. Define data ownership, integration boundaries, failure cases, and human review steps.
-3. Use AI to generate and iterate on implementation.
-4. Test actual behavior, investigate failures, and validate the deployed workflow.
-5. Document decisions and handoffs so the system can be operated and improved.
+- **Problem:** explore the demands and trade-offs of early parenthood through a real-time baby-care simulation.
+- **My role:** product concept, requirements, system design, AI-assisted implementation, testing direction, and iteration.
+- **Architecture:** React/TypeScript PWA, deterministic simulation engine, local persistence, and Cloudflare Worker/D1 architecture for household sharing, alerts, and Gemini endpoints.
+- **Decision:** rules and recorded events own simulation state; AI supplies bounded narrative with deterministic fallbacks.
+- **Status:** active experiment. A Worker deployment was reported successful; household sharing, push, and AI integrations still need end-to-end validation.
+- **Evidence:** [product, architecture and decisions](https://github.com/farshaikh17/Parenthood#readme).
 
-AI assistance is part of the development process. My contribution is described through the decisions and delivery responsibilities I owned, with team and employer ownership kept explicit.
+AI generated and assisted substantial implementation. My contribution is the product thinking, system decisions, implementation direction, validation, and delivery described above.
 
-## Work I’m interested in
+## How I Work
 
-Technical Operations · Implementation · CRM & automation · AI workflow delivery · Systems and product delivery
+**Understand → Architect → Build with AI → Integrate → Test → Ship → Systemize**
+
+I translate needs into requirements and acceptance criteria, define data ownership and failure cases, use AI to iterate on implementation, validate actual behavior, and document decisions so a team can operate and improve the system.
+
+## What I Work With
+
+- **Systems and integrations:** GoHighLevel, Cloudflare Workers, D1, APIs, webhooks.
+- **Product implementation:** React, TypeScript, JavaScript, PWA architecture.
+- **AI-assisted delivery:** Gemini and AI development tools for implementation and iteration.
+
+These tools reflect the projects above; responsibilities and depth vary by project.
+
+## Roles / Problems I'm Interested In
+
+Technical Operations · Technical Implementation · AI Automation / Operations · CRM & Business Systems · Product Delivery · Founder-led technical operations
+
+I’m interested in messy workflows, disconnected tools, and ambiguous requirements that need someone to turn them into an operable system.
