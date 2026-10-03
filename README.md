@@ -1,5 +1,7 @@
 # Farhan Shaikh
 
+**[View my portfolio →](https://portfolio-indol-gamma-6pgrxbnt7h.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/farhan-shaikh-27n11/)
+
 **Technical Operations · AI-Assisted Building · CRM & Automation · Implementation**
 
 ## I turn ambiguous business problems into working systems.
