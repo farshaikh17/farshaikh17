@@ -34,6 +34,22 @@ Company ownership remains with Mianro Systems. This is a description of my contr
 
 AI generated and assisted substantial implementation. My contribution is the product thinking, system decisions, implementation direction, validation, and delivery described above.
 
+### Career Job Engine
+**Personal operational project**
+
+- **Problem:** connect job discovery, scheduled processing and application tracking in one operational dashboard.
+- **My role:** requirements, workflow direction, AI-assisted implementation, dashboard review and QA coordination.
+- **Tools:** Python, GitHub Actions, React, Cloudflare Workers and D1.
+- **Status:** active development and QA. Source and personal application records remain private; deployment activity does not establish complete reliability or job-placement outcomes.
+
+### [Farhan Agent Bridge](https://github.com/farshaikh17/farhan-agent-bridge)
+**Open-source personal project**
+
+- **Purpose:** a Windows-oriented local MCP bridge for submitting tasks through installed Codex and Claude Code CLIs and retrieving results.
+- **My role:** workflow requirements and AI-assisted implementation and release preparation.
+- **Published scope:** v0.2.0, Node.js, MIT license.
+- **Validation:** repository checks cover protocol and input handling. Live provider execution and the full worker lifecycle require separate validation.
+
 ## How I Work
 
 **Understand → Architect → Build with AI → Integrate → Test → Ship → Systemize**
