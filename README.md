@@ -2,11 +2,21 @@
 
 **[View my portfolio →](https://portfolio-indol-gamma-6pgrxbnt7h.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/farhan-shaikh-27n11/)
 
-**Technical Operations · AI-Assisted Building · CRM & Automation · Implementation**
+## HighLevel implementation and technical operations
 
-## I turn ambiguous business problems into working systems.
+I lead a five-person technical team at Mianro Systems, consult on GoHighLevel booking and enrollment workflows, and build CRM tools. My background spans HighLevel technical support, compliance product support at Rippling, and founding operations and growth at Glow Up.
 
-I connect business requirements with the systems people use: define the workflow, design how data moves, build with AI, integrate the pieces, test behavior, and carry delivery through deployment.
+| Where I work | What I do |
+| --- | --- |
+| CRM architecture | Map contacts, opportunities, pipelines, custom fields and custom values. Decide what belongs to the person and what belongs to each booking. |
+| Workflow implementation | Connect forms, funnels, native sites and calendars to triggers, routing, reservation drips and follow-up. |
+| Technical support and QA | Trace API requests and webhook payloads in Postman, diagnose domain and calling issues, and check stage changes, duplicate sends and field dependencies. |
+| Freelance delivery | Worked on booking automation and opportunity-field migration for an appointment business. Reviewed enrollment, payment, access and renewal requirements for a training provider and scoped phased delivery. |
+
+## Independent CRM products
+
+- [LeadLeak](https://github.com/farshaikh17/leadleak) compares contact and opportunity exports by contact ID. Operators confirm column mappings and inspect the rule behind each flagged deal.
+- [CRM Lead Hygiene API examples](https://github.com/farshaikh17/crm-lead-hygiene-examples) show how to normalize records and review duplicate candidates before import, using JavaScript, Python or curl.
 
 ## Selected Work
 
@@ -34,13 +44,13 @@ Company ownership remains with Mianro Systems. This is a description of my contr
 
 AI generated and assisted substantial implementation. My contribution is the product thinking, system decisions, implementation direction, validation, and delivery described above.
 
-### Career Job Engine
+### [Career Job Engine](https://github.com/farshaikh17/Codex)
 **Personal operational project**
 
 - **Problem:** connect job discovery, scheduled processing and application tracking in one operational dashboard.
 - **My role:** requirements, workflow direction, AI-assisted implementation, dashboard review and QA coordination.
 - **Tools:** Python, GitHub Actions, React, Cloudflare Workers and D1.
-- **Status:** active development and QA. Source and personal application records remain private; deployment activity does not establish complete reliability or job-placement outcomes.
+- **Status:** active development and QA. The public repository documents discovery, eligibility screening and ranking. Application decisions stay with the person searching.
 
 ### [Farhan Agent Bridge](https://github.com/farshaikh17/farhan-agent-bridge)
 **Open-source personal project**
