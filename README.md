@@ -1,5 +1,7 @@
 # Farhan Shaikh
 
+<img src="https://portfolio-indol-gamma-6pgrxbnt7h.vercel.app/farhan.webp" alt="Farhan Shaikh" width="152">
+
 **[View my portfolio →](https://portfolio-indol-gamma-6pgrxbnt7h.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/farhan-shaikh-27n11/)
 
 ## HighLevel implementation and technical operations
@@ -8,6 +10,7 @@ I lead a five-person technical team at Mianro Systems, consult on GoHighLevel bo
 
 | Where I work | What I do |
 | --- | --- |
+| UI and interaction design | Explore a responsive booking simulator with touch and keyboard controls, visible state changes and reduced-motion support. [Try the portfolio playbook](https://portfolio-indol-gamma-6pgrxbnt7h.vercel.app/#playbook). |
 | CRM architecture | Map contacts, opportunities, pipelines, custom fields and custom values. Decide what belongs to the person and what belongs to each booking. |
 | Workflow implementation | Connect forms, funnels, native sites and calendars to triggers, routing, reservation drips and follow-up. |
 | Technical support and QA | Trace API requests and webhook payloads in Postman, diagnose domain and calling issues, and check stage changes, duplicate sends and field dependencies. |
